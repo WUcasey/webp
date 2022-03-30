@@ -2,7 +2,6 @@
 
 #container{
     color: rgb(75, 84, 196);
-    /* margin: 50px 50px; */
     background-color: rgb(99, 214, 214);
     padding: 80px 80px;
     position: fixed;
@@ -28,7 +27,6 @@
 @media only screen and (min-width: 321px) and (max-width: 768px) {
     #container{
         color: rgb(23, 34, 192);
-        /* margin: 50px 50px; */
         background-color: rgb(174, 197, 240);
         padding: 80px 80px;
         position: fixed;
@@ -42,7 +40,6 @@
 @media screen and (min-width: 900px) {
     #container{
         color: rgb(5, 15, 71);
-        /* margin: 50px 50px; */
         background-color: rgb(140, 231, 231);
         padding: 80px 80px;
         position: fixed;
@@ -55,7 +52,6 @@
 @media screen and (max-width: 600px){
     #container{
         color: rgb(119, 119, 128);
-        /* margin: 50px 50px; */
         background-color: rgb(146, 240, 162);
         padding: 150px 100px;
         position: fixed;
