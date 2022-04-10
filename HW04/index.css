@@ -1,0 +1,17 @@
+.box{
+    
+    width: 1000px;
+    height: 35px;
+    border: 4px #f8f5f5 solid;
+    margin: 25px 30px;
+    padding: 7px 7px;
+    
+}
+*{
+    background-color: rgb(169, 81, 81);
+}
+img{
+    width: 35px;
+    padding: 5px,0px;
+    position:relative
+}
